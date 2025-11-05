@@ -1,3 +1,4 @@
-const=24;
-const= 'hello'
-const ='check'
+const num=24;
+const mesg= 'hello'
+const st='check'
+
