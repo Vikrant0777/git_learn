@@ -1,7 +1,7 @@
 const = "big"
 
 
-function{
+function hello() {
     console.log("biga")
 }
 

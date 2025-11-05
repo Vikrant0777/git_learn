@@ -1,3 +1,3 @@
-const=24
-const= "hello"
-const ="check"
+const=24;
+const= 'hello'
+const ='check'
