@@ -6,3 +6,5 @@ function hello() {
 
 const another "hi"
 
+console.log("something for branch1")
+
