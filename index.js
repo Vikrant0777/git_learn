@@ -5,3 +5,5 @@ const st='check'
 function newfeature(){
     console.log("New feature to test branching")
 }
+
+console.log("something for branch1")
